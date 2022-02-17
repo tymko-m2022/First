@@ -8,14 +8,45 @@ html{
 }
 
 body{
-  max-width: 1920px;
+  max-width: 1440px;
   margin: auto;
   padding: 0;
 }
 
 .container{
-max-width: 1240px;
+max-width: 1110px;
 margin: auto;
 padding-top: 30px;
 position: relative;
+}
+
+header{
+width: 1440px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+}
+
+nav{
+
+}
+
+.Logo{
+  width: 100px;
+height: 67.96px;
+left: 165px;
+top: 50px;
+}
+
+.navbar{
+display: flex;
+width: 742px;
+height: 64px;
+left: 533px;
+top: 55px;
+
+}
+ul{
+  list-style: none;
 }
